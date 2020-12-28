@@ -1,10 +1,35 @@
-body{
-background-image: url(grad.jpg);
+body
+{
 background-repeat: no-repeat;
+margin: 0px;
 }
-img{
+
+.tw
+{
 margin-top: 100px;
 margin-left: 20px;
 max-height: 700px;
 max-width: 700px;
+}
+
+header
+{
+max-height:60px;
+background-color: navy;
+font-family: open sans;
+color: white;
+}
+
+img
+{
+max-width: 60px;
+max-height: 60px;
+margin: 0px;
+padding-right: 0px;
+}
+
+h1{
+font-size: 20px;
+margin: 0px;
+padding-right: 0px;
 }
